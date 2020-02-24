@@ -1,0 +1,23 @@
+{
+  "name": "parcel-plugin-css-as-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/readymade-ui/parcel-plugin-css-as-string.git",
+  "author": "Steve Belovarich <steveblue@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "plugin",
+    "css",
+    "object"
+  ],
+  "bugs": {
+    "url": "https://github.com/readymade-ui/parcel-plugin-css-as-string/issues"
+  },
+  "homepage": "https://github.com/readymade-ui/parcel-plugin-css-as-string#readme"
+}
