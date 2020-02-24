@@ -10,6 +10,7 @@ class CssStringAsset extends Asset {
   }
   generate() {
     return {
+      css: this.code,
       js: `module.exports = ${JSON.stringify(
         this.code
       )}`
