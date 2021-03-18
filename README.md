@@ -10,6 +10,8 @@ npm install -D parcel-plugin-css-as-string
 yarn add parcel-plugin-css-as-string --dev
 ```
 
+Note: If the console shows that the CSS module cannot be found after installation, delete the cache and dist folders and rebuild the project. 
+
 ## Usage
 
 button.css
